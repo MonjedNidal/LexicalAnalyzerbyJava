@@ -1,0 +1,10 @@
+array function triple(const x: integer): integer;
+begin
+	triple := x * 3
+end;
+
+
+
+
+
+
