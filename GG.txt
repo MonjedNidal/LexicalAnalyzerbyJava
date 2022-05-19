@@ -1,10 +1,7 @@
-array function triple(const x: integer): integer;
-begin
+array function triple (const x: integer): integer;
+begin 4.65
 	triple := x * 3
-end;
-
-
-
-
-
+	and 7
+end.
+8
 
